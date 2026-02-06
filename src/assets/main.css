@@ -1,0 +1,28 @@
+@import './custom-utilities.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+.glass-card {
+  background: rgba(22, 27, 38, 0.7);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+.glow-primary {
+  box-shadow: 0 0 15px -3px rgba(19, 91, 236, 0.3);
+}
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #232f48;
+  border-radius: 10px;
+}
