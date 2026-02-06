@@ -59,5 +59,4 @@ src/
 
 ### Running with the Backend
 To pair the frontend with the backend:
-
- ---placeholder
+- See instructions in the [Financial Analysis Backend README](https://github.com/mdrzal/Fin_Dash_BE_MD).
