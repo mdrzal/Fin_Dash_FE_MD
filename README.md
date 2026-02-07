@@ -1,5 +1,8 @@
 # Financial Analysis Frontend
 
+https://github.com/user-attachments/assets/646a8d62-ce0f-46ce-9eb0-a9f6d47c5d88
+
+
 ## Overview
 The Financial Analysis Frontend is an interactive dashboard designed for financial and stock analysis. This application is paired with the backend system alongside the backend system
 
